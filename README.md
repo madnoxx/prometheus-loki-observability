@@ -36,7 +36,7 @@ docker-compose ps
 
 ## Использование
 
-Grafana: http://localhost:3000
-Prometheus: http://localhost:9090
-Alertmanager: http://localhost:9093
-Loki: http://localhost:3100
+- Grafana: http://localhost:3000
+- Prometheus: http://localhost:9090
+- Alertmanager: http://localhost:9093
+- Loki: http://localhost:3100
