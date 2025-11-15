@@ -1,0 +1,4 @@
+loki-data/
+promtail/
+promtail-positions/
+.env
